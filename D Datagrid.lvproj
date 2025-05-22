@@ -12,11 +12,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Alpha math.vi" Type="VI" URL="../Alpha math.vi"/>
 		<Item Name="Blend colors with alpha.vi" Type="VI" URL="../Blend colors with alpha.vi"/>
 		<Item Name="Cvt CellPos to Bounds.vi" Type="VI" URL="../String Dropdown D Element/Cvt CellPos to Bounds.vi"/>
 		<Item Name="D Datagrid Library.lvlib" Type="Library" URL="../D Datagrid Library.lvlib"/>
-		<Item Name="Test D Datagrid.vi" Type="VI" URL="../Test D Datagrid.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
