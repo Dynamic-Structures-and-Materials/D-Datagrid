@@ -1,3 +1,4 @@
 *.aliases
 *.lvlps
 VIPM builds/
+.svn/
