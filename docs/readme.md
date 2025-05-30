@@ -42,6 +42,16 @@ The following datatypes are supported out of the box:
 
 (The numerics are set up as another subclass so you could implement e.g., an I32 easily enough.)
 
+## Dependencies
+
+Developing the D-Datagrid requires the QControls Toolkit. Run the included Dependencies.vipm file to install it. You do not need to manually install the dependencies if you install the .vip package to simply use the toolkit.
+
+The toolkit is compatible with LabVIEW version 2023 and higher. It is likely compatible with earlier versions, but it's untested.
+
+## Installation
+
+Run the .vip file from the github Releases to install this toolkit.
+
 ## Known issues:
 
 - There is a bug that makes the first click or two show up slightly in the wrong spot. I can't reliably reproduce it but it's only the first click or two.  

@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-08-22 11:30:14" Modified_Date="2025-05-22 17:52:21" Creator="bmcmahan" Comments="" ID="e4e5ae5d2c3285597ac4ba26ab40390e">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-08-22 11:30:14" Modified_Date="2025-05-30 16:57:55" Creator="bmcmahan" Comments="" ID="6c3130bdc2f3b6dc0cd08bcd65de5d60">
   <Library_General_Settings>
     <Package_File_Name>DSM_lib_D_Datagrid</Package_File_Name>
-    <Library_Version>1.2.0.42</Library_Version>
+    <Library_Version>1.2.0.43</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>VIPM builds</Library_Output_Folder>
@@ -16,9 +16,7 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies>
-      <Additional_External_Dependencies>qsi_qcontrol_toolkit &gt;=3.1.2.19</Additional_External_Dependencies>
-    </Package_Dependencies>
+    <Package_Dependencies/>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -303,7 +301,7 @@
         <Path>Redraw full indicator.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D2C68A0ADBD8B90CC4C997DF935A0247</GUID>
+      <GUID>01D16A88C5CB5B8969EFB8458392ACC6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -436,7 +434,7 @@
         <Path>COM port D Element\Drop COM port D element.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>64D59EB2F00CE0620A69E220A55699AD</GUID>
+      <GUID>4A6C78DBB6E40A9D6B9AF7ECA100A801</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
